@@ -1,0 +1,11 @@
+-- TABLES: indica las tablas de las bases de datos
+-- ROWSD: indica los nombres de las filas
+-- SETTUPD: indica el update a las bases de datos
+-- DBD: indica el nombre de la base de datos 
+![config]
+
+DBD=['kiescg.db']
+TABLE=['estudiantes']
+ROWSD=[code_student]
+SETTUPD=['matricula']
+TTIF=[nombre, edad, code_student, matricula]
