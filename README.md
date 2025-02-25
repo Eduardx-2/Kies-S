@@ -26,10 +26,12 @@ Kies-S es una herramienta de tipo command client para consultas a bases de datos
 -- ROWSD: indica los nombres de las filas
 -- SETTUPD: indica el update a las bases de datos
 -- DBD: indica el nombre de la base de datos `
-
+* Dentro de Kies se trata como objetos lo que este registrado dentro de la base de datos.
 - Ejemplo de uso usando comando show_info
 - <p align="center">
     <img width="80%" height="50%" src="https://github.com/Eduardx-2/Kies-S/blob/main/kiesAct.png">
   </p>
+  se puede visualizar que el comando show_info recibe un parametro "345672" cuál indica que show_info tiene que buscar en la base de datos el objeto que contenga esa identificación(en mí caso es una persona) lo cuál decuelve la información.
+* Cuenta con soporte para actualizar registros.
 - soporte con SQLITE -> proxima actualización soporte (MARIADB,POSTGRESQL)
 
