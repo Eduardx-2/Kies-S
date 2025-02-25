@@ -12,10 +12,11 @@ Kies-S es una herramienta de tipo command client para consultas a bases de datos
 - Manejo interactivo con el usuario sobre las consultas.
 - Comandos especificos que abrevian codigo SQL.
 
-<h2>Instalación</h2>
+<h2>Instalación y Uso</h2>
 
  - ~arch@linux# `git clone https://github.com/Eduardx-2/Kies-S`
  - ~arch@linux# `cargo run --realese` o ~arch@linux# `cargo run -- <comando>(input o config)`
+ - La función principal se dispara usando argumentos (input o config) -> `cargo run -- input` 
 
 <h2>Configuración</h2>
 
