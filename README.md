@@ -31,7 +31,7 @@ Kies-S es una herramienta de tipo command client para consultas a bases de datos
 - <p align="center">
     <img width="80%" height="50%" src="https://github.com/Eduardx-2/Kies-S/blob/main/kiesAct.png">
   </p>
-  se puede visualizar que el comando show_info recibe un parametro "345672" cuál indica que show_info tiene que buscar en la base de datos el objeto que contenga esa identificación(en mí caso es una persona) lo cuál decuelve la información.
+  se puede visualizar que el comando show_info recibe un parametro "345672" cuál indica que show_info tiene que buscar en la base de datos el objeto que contenga esa identificación(en mí caso es una persona) lo cuál devuelve la información.
 * Cuenta con soporte para actualizar registros.
 - soporte con SQLITE -> proxima actualización soporte (MARIADB,POSTGRESQL)
 
